@@ -2,7 +2,7 @@
 I'm Rita. Welcome to my GitHub!
 
 * 3rd year Computer Science student
-* Currently working on a portfolio website
+* Currently working on a portfolio website and FACESHOPPER
 * Interested in game development and design
 
 <!-- My socials: [LinkedIn](https://www.linkedin.com/in/rita-zhang-677ba42b3/) -->
