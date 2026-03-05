@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Rita (Goose). Welcome to my GitHub!
+I'm Goose (zhzrui). Welcome to my GitHub!
 
 * 3rd year Computer Science student
 * Currently working on a portfolio website and FACESHOPPER
