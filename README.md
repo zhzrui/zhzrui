@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Goose (zhzrui). Welcome to my GitHub!
+I'm zhzrui. Welcome to my GitHub!
 
-* 3rd year Computer Science student
-* Currently working on a portfolio website and FACESHOPPER
+* 4th year Computer Science student
+* Currently working on a portfolio website
 * Interested in game development and design
 
 <img width="956" height="558" alt="Here&#39;s the Catch thumbnail" src="https://github.com/user-attachments/assets/83ddf783-89a0-408b-baa3-8a0d09997207" />
